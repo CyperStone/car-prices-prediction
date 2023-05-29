@@ -6,7 +6,7 @@
 ## Overview
 * Gathered real data from Polish car marketplace Otomoto.pl using dedicated [web scraper](https://github.com/CyperStone/otomoto-scraper)
 * Analyzed the car market in Poland and visualized essential statistics
-* Perform data preprocessing including cleaning, feature extraction, and necessary transformations
+* Performed data preprocessing including cleaning, feature extraction, and necessary transformations
 * Conducted experiment on model performance after different kinds of dataset split
 * Improved and trained the final model that reaches the following results on the test set (consisting of nearly 30k samples):
 
